@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109035959354",
+    "project_id": "imagine-art-7ccdc",
+    "storage_bucket": "imagine-art-7ccdc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109035959354:android:8595c1e5c56b2682643103",
+        "android_client_info": {
+          "package_name": "com.imagine.artprint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsa_WjeQGDjkfjE-6xnr5UceODq3FX0n8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
